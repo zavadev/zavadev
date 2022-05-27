@@ -1,4 +1,4 @@
-## Nathan Zavala (zavadev) -- Software Engineer
+## Nathan Zavala, Software Engineer
 
 Thank you for visiting my GitHub profile!
 
