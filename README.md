@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile!
 
-Please take a look at the projects I have pinned -- you'll find my two full stack projects, DojoDeals and Trapper Keeper, along with a couple of group projects  (Gora and BossShots) made while attending App Academy.
+Please take a look at the projects I have pinned: my two full stack projects, DojoDeals and Trapper Keeper, along with a couple of group projects  (Gora and BossShots) made while attending App Academy.
 
 Skills: JavaScript / REACT / Redux / Express / Python / Flask / SQL / SQLAlchemy / PostgreSQL / Heroku / HTML / CSS
 
