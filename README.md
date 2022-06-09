@@ -1,4 +1,5 @@
 ## Nathan Zavala, Software Engineer
+| Backend & Frontend | React | Redux | JavaScript | Node.js | Python | Flask | SQLAlchemy | PostgreSQL | HTML | CSS
 
 Thank you for visiting my GitHub profile!
 
